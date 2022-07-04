@@ -2,7 +2,7 @@
 
 ** Analise de dados sobre familias que vivem na pobreza  ** 
 
-* Conjunto de dados distribuido pelo Professor Lucas Magalhães para um trabalho final na Academia de Profissões 
+* Conjunto de dados distribuído pelo Professor Lucas Magalhães para um trabalho final na Academia de Profissões 
 que detalha a queda dos preços da principal commodity exportada no mercado internacional em 2001, onde foi observada no pais X
 um aumento expansivo de famílias vivendo abaixo da linha da probreza. 
 
